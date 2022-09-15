@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Kung Fu Panda",
+    "year": "2008",
+    "id": "tt0441773",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODJkZTZhMWItMDI3Yy00ZWZlLTk4NjQtOTI1ZjU5NjBjZTVjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+    "director": "Mark Osborne",
+    "casts": "Jack Black, Jackie Chen",
+    "genre": "Action, Comedy"
+  },
+  {
+    "title": "Kung Fu Panda 2",
+    "year": "2011",
+    "id": "tt1302011",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzQ0ZWIxZjAtYWI3Yy00MGM0LWFjOGYtNzcyYThiOTA3ODI1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+    "director": "Jennifer Yuh Nelson",
+    "casts": "Jack Black, Jackie Chen",
+    "genre": "Action, Comedy"
+  },
+  {
+    "title": "Kung Fu Panda 3",
+    "year": "2016",
+    "id": "tt2267968",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUyNzgxNjg2M15BMl5BanBnXkFtZTgwMTY1NDI1NjE@._V1_SX300.jpg",
+    "director": "Alessandro Carloni",
+    "casts": "Jack Black, Jackie Chen",
+    "genre": "Action, Comedy"
+  }
+]
